@@ -34,8 +34,8 @@ Welcome:
 
 # Ответ 2
 
-![alt text](https://github.com/stepanovsa061/10-monitoring-04-elk/blob/main/2%20discover.PNG)
+![alt text](https://github.com/stepanovsa061/10-monitoring-04-elk/blob/main/2%20index.PNG)
 
 Логи из моего приложение отображающиеся в Kibana:
 
-![alt text](https://github.com/stepanovsa061/10-monitoring-04-elk/blob/main/2%20index.PNG)
+![alt text](https://github.com/stepanovsa061/10-monitoring-04-elk/blob/main/2%20discover.PNG)
